@@ -354,8 +354,7 @@ padding: 0;
   }
   
   .caption {
-	position: absolute;
-	font-size: 20px;
+    position: absolute;
     bottom: 5px;
     left: 20px;
     opacity: 0.0;
@@ -397,7 +396,7 @@ padding: 0;
   }
 
   .sub_menu {
-	  display: none;
+	  display:none;
   }
   .main_menu ul li:hover .sub_menu {
 	position: absolute;
@@ -416,30 +415,9 @@ padding: 0;
 	  margin-bottom: 20px;
   }
   .two {
-		margin-top: 20px;
+		margin-top: 15px;
   }
   .three {
 	margin-top: 15px;
-	
+	overflow: visible;
   }
-
-  .novel1 {
-    position: relative;
-    bottom: 300px;
-    left: -5%;
-    text-align: center;
-    color: aliceblue;
-    font-size: 15px;
-}
-
-.novel {
-    font-family: "Seaweed Script";
-	color: #fff;
-	text-align: center;
-	font-size: 20px;
-	position: absolute;
-	margin-left: 29%;
-	
-}
-
-
